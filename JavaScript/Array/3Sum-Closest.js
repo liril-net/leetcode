@@ -4,7 +4,7 @@
  * @return {number}
  */
 var threeSumClosest = function(nums, target) {
-  nums = nums.sort((x, y) => x - y);
+  nums = nums.sort(function(x, y) { return (x - y); });
   var minDistance, closestSum;
   for (var i = 0; i < nums.length - 2; i++) {
     if (i === 0) {
@@ -24,4 +24,4 @@ var threeSumClosest = function(nums, target) {
   return closestSum;
 };
 
-console.log(threeSumClosest([ -1, 2, 1, -4 ], 1));
+console.log(threeSumClosest([-1, 2, 1, -4], 1));
