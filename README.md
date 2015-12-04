@@ -13,8 +13,6 @@ This is my work about LeetCode, i will finish it with several different language
 Solution
 --------
 
-All solution.
-
 -	3Sum-Closest.js
 -	3Sum.js
 -	4Sum.js
