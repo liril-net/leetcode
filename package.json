@@ -1,0 +1,21 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "My solution about LeetCode.",
+  "scripts": {
+    "test": "echo \"Success: Everything is ok.\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liril-net/leetcode.git"
+  },
+  "keywords": [
+    "LeetCode"
+  ],
+  "author": "liril.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liril-net/leetcode/issues"
+  },
+  "homepage": "https://github.com/liril-net/leetcode#readme"
+}
