@@ -1,3 +1,7 @@
+//
+// Copyright (c) 2015 by liril.net. All Rights Reserved.
+//
+
 /**
  * @param {number[]} nums1
  * @param {number} m
