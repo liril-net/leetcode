@@ -1,6 +1,8 @@
 LeetCode
 ========
 
+[![Build status](https://ci.appveyor.com/api/projects/status/2b3hf6x94n1fqbd4?svg=true)](https://ci.appveyor.com/project/liril-net/leetcode)
+
 Some code about LeetCode.
 
 About
