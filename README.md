@@ -41,11 +41,17 @@ Tree
 |   |   |-- Missing-Number.js
 |   |   |-- Number-of-1-Bits.js
 |   |   `-- Power-of-Two.js
-|   `-- Math
-|       `-- Reverse-Integer.js
+|   |-- Math
+|   |   `-- Reverse-Integer.js
+|   |-- String
+|   |   |-- Add-Binary.js
+|   |   `-- Basic-Calculator-II.js
+|   `-- Tree
+|       |-- Maximum-Depth-of-Binary-Tree.js
+|       `-- Minimum-Depth-of-Binary-Tree.js
 |-- README.md
 `-- package.json
 
-4 directories, 26 files
+6 directories, 30 files
 
 ```
