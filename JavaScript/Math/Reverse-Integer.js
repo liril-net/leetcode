@@ -9,11 +9,8 @@
 var reverse = function(x) {
   var ret = 0;
   for (; x !== 0; x = parseInt(x / 10)) ret = ret * 10 + x % 10;
-  var max = Math.pow(2, 31) - 1;
-  var min = -Math.pow(2, 31);
-
-  // 反过来也应该是Integer
-  if (ret > max || ret < min)
+  // 32位符号整数表示范围
+  if (ret > 2147483647 || ret < -2147483648)
     return 0;
   else
     return ret;
