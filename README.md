@@ -16,29 +16,33 @@ Tree
 ```shell
 .
 |-- JavaScript
-|   `-- Array
-|       |-- 3Sum-Closest.js
-|       |-- 3Sum.js
-|       |-- 4Sum.js
-|       |-- Find-Minimum-in-Rotated-Sorted-Array-II.js
-|       |-- Find-Minimum-in-Rotated-Sorted-Array.js
-|       |-- Find-Peak-Element.js
-|       |-- Largest-Rectangle-in-Histogram.js
-|       |-- Maximal-Rectangle.js
-|       |-- Merge-Sorted-Array.js
-|       |-- Palindrome-Number.js
-|       |-- Pascal-s-Triangle-II.js
-|       |-- Pascal-s-Triangle.js
-|       |-- Plus-One.js
-|       |-- Remove-Duplicates-from-Sorted-Array-II.js
-|       |-- Remove-Duplicates-from-Sorted-Array.js
-|       |-- Remove-Element.js
-|       |-- Search-Insert-Position.js
-|       |-- Search-a-2D-Matrix.js
-|       |-- Search-for-a-Range.js
-|       `-- Two-Sum.js
+|   |-- Array
+|   |   |-- 3Sum-Closest.js
+|   |   |-- 3Sum.js
+|   |   |-- 4Sum.js
+|   |   |-- Find-Minimum-in-Rotated-Sorted-Array-II.js
+|   |   |-- Find-Minimum-in-Rotated-Sorted-Array.js
+|   |   |-- Find-Peak-Element.js
+|   |   |-- Largest-Rectangle-in-Histogram.js
+|   |   |-- Maximal-Rectangle.js
+|   |   |-- Merge-Sorted-Array.js
+|   |   |-- Palindrome-Number.js
+|   |   |-- Pascal-s-Triangle-II.js
+|   |   |-- Pascal-s-Triangle.js
+|   |   |-- Plus-One.js
+|   |   |-- Remove-Duplicates-from-Sorted-Array-II.js
+|   |   |-- Remove-Duplicates-from-Sorted-Array.js
+|   |   |-- Remove-Element.js
+|   |   |-- Search-Insert-Position.js
+|   |   |-- Search-a-2D-Matrix.js
+|   |   |-- Search-for-a-Range.js
+|   |   `-- Two-Sum.js
+|   `-- Bit\ Manipulation
+|       |-- Missing-Number.js
+|       |-- Number-of-1-Bits.js
+|       `-- Power-of-Two.js
 |-- README.md
 `-- package.json
 
-2 directories, 22 files
+3 directories, 25 files
 ```
