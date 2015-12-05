@@ -13,7 +13,7 @@ This is my work about LeetCode, i will finish it with several different language
 Tree
 ----
 
-```shell
+```bash
 .
 |-- JavaScript
 |   |-- Array
@@ -37,12 +37,15 @@ Tree
 |   |   |-- Search-a-2D-Matrix.js
 |   |   |-- Search-for-a-Range.js
 |   |   `-- Two-Sum.js
-|   `-- Bit\ Manipulation
-|       |-- Missing-Number.js
-|       |-- Number-of-1-Bits.js
-|       `-- Power-of-Two.js
+|   |-- Bit\ Manipulation
+|   |   |-- Missing-Number.js
+|   |   |-- Number-of-1-Bits.js
+|   |   `-- Power-of-Two.js
+|   `-- Math
+|       `-- Reverse-Integer.js
 |-- README.md
 `-- package.json
 
-3 directories, 25 files
+4 directories, 26 files
+
 ```
