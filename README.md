@@ -66,9 +66,11 @@ Tree
 │       ├── Populating-Next-Right-Pointers-in-Each-Node-II.js
 │       ├── Populating-Next-Right-Pointers-in-Each-Node.js
 │       ├── Same-Tree.js
-│       └── Symmetric-Tree.js
+│       ├── Symmetric-Tree.js
+│       └── Validate-Binary-Search-Tree.js
 ├── README.md
 └── package.json
 
-6 directories, 48 files
+6 directories, 49 files
+
 ```
