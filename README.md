@@ -15,43 +15,60 @@ Tree
 
 ```bash
 .
-|-- JavaScript
-|   |-- Array
-|   |   |-- 3Sum-Closest.js
-|   |   |-- 3Sum.js
-|   |   |-- 4Sum.js
-|   |   |-- Find-Minimum-in-Rotated-Sorted-Array-II.js
-|   |   |-- Find-Minimum-in-Rotated-Sorted-Array.js
-|   |   |-- Find-Peak-Element.js
-|   |   |-- Largest-Rectangle-in-Histogram.js
-|   |   |-- Maximal-Rectangle.js
-|   |   |-- Merge-Sorted-Array.js
-|   |   |-- Palindrome-Number.js
-|   |   |-- Pascal-s-Triangle-II.js
-|   |   |-- Pascal-s-Triangle.js
-|   |   |-- Plus-One.js
-|   |   |-- Remove-Duplicates-from-Sorted-Array-II.js
-|   |   |-- Remove-Duplicates-from-Sorted-Array.js
-|   |   |-- Remove-Element.js
-|   |   |-- Search-Insert-Position.js
-|   |   |-- Search-a-2D-Matrix.js
-|   |   |-- Search-for-a-Range.js
-|   |   `-- Two-Sum.js
-|   |-- Bit\ Manipulation
-|   |   |-- Missing-Number.js
-|   |   |-- Number-of-1-Bits.js
-|   |   `-- Power-of-Two.js
-|   |-- Math
-|   |   `-- Reverse-Integer.js
-|   |-- String
-|   |   |-- Add-Binary.js
-|   |   `-- Basic-Calculator-II.js
-|   `-- Tree
-|       |-- Maximum-Depth-of-Binary-Tree.js
-|       `-- Minimum-Depth-of-Binary-Tree.js
-|-- README.md
-`-- package.json
+├── JavaScript
+│   ├── Array
+│   │   ├── 3Sum-Closest.js
+│   │   ├── 3Sum.js
+│   │   ├── 4Sum.js
+│   │   ├── Find-Minimum-in-Rotated-Sorted-Array-II.js
+│   │   ├── Find-Minimum-in-Rotated-Sorted-Array.js
+│   │   ├── Find-Peak-Element.js
+│   │   ├── Largest-Rectangle-in-Histogram.js
+│   │   ├── Maximal-Rectangle.js
+│   │   ├── Merge-Sorted-Array.js
+│   │   ├── Palindrome-Number.js
+│   │   ├── Pascal-s-Triangle-II.js
+│   │   ├── Pascal-s-Triangle.js
+│   │   ├── Plus-One.js
+│   │   ├── Remove-Duplicates-from-Sorted-Array-II.js
+│   │   ├── Remove-Duplicates-from-Sorted-Array.js
+│   │   ├── Remove-Element.js
+│   │   ├── Search-Insert-Position.js
+│   │   ├── Search-a-2D-Matrix.js
+│   │   ├── Search-for-a-Range.js
+│   │   └── Two-Sum.js
+│   ├── Bit\ Manipulation
+│   │   ├── Missing-Number.js
+│   │   ├── Number-of-1-Bits.js
+│   │   └── Power-of-Two.js
+│   ├── Math
+│   │   └── Reverse-Integer.js
+│   ├── String
+│   │   ├── Add-Binary.js
+│   │   └── Basic-Calculator-II.js
+│   └── Tree
+│       ├── Balanced-Binary-Tree.js
+│       ├── Binary-Tree-Inorder-Traversal.js
+│       ├── Binary-Tree-Level-Order-Traversal-II.js
+│       ├── Binary-Tree-Level-Order-Traversal.js
+│       ├── Binary-Tree-Postorder-Traversal.js
+│       ├── Binary-Tree-Preorder-Traversal.js
+│       ├── Binary-Tree-Zigzag-Level-Order-Traversal.js
+│       ├── Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.js
+│       ├── Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.js
+│       ├── Convert-Sorted-Array-to-Binary-Search-Tree.js
+│       ├── Convert-Sorted-List-to-Binary-Search-Tree.js
+│       ├── Flatten-Binary-Tree-to-Linked-List.js
+│       ├── Maximum-Depth-of-Binary-Tree.js
+│       ├── Minimum-Depth-of-Binary-Tree.js
+│       ├── Path-Sum-II.js
+│       ├── Path-Sum.js
+│       ├── Populating-Next-Right-Pointers-in-Each-Node-II.js
+│       ├── Populating-Next-Right-Pointers-in-Each-Node.js
+│       ├── Same-Tree.js
+│       └── Symmetric-Tree.js
+├── README.md
+└── package.json
 
-6 directories, 30 files
-
+6 directories, 48 files
 ```
